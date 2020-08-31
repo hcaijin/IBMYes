@@ -197,7 +197,7 @@ RESOURSE_ID // 资源组ID
 
 cloudflare官网：https://www.cloudflare.com/
 
-注册，登录这里不再累述。
+注册，登录这里不再赘述。
 
 登录后左上角点击菜单找到workers
 
